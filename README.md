@@ -71,7 +71,7 @@ A government-scale proposal submitted to Kenya's Ministry of ICT, focused on tra
 
 - 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 🐦 [Twitter](https://twitter.com/_mwangi_1)
-- 💼 [Portfolio]
+- 💼 [Portfolio] https://vercel.com/dennis-mwangis-projects/portfolio-website/6PjKuhw1VijZz1KAtQU4sWcPCmoo 
 - 📧 Email: info.dennismwangi@gmail.com
 
 ---
