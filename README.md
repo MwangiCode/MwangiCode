@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Hi, I'm Dennis Mwangi Kinyua</h1>
 <h3 align="center">Full-Stack Software Engineer | Founder @ Denha Networking Ltd | Building Modern Web & Real-Time Systems</h3>
 
@@ -5,74 +6,82 @@
 
 ### 🚀 About Me
 
-I'm a passionate full-stack developer and tech entrepreneur from Kenya 🇰🇪. I specialize in designing and building scalable web platforms with clean architecture and a strong focus on user experience, performance, and reliability.
+I'm a full-stack software engineer and tech entrepreneur based in Kenya 🇰🇪, passionate about building scalable, high-performance web platforms that prioritize clean architecture, user experience, and reliability.
 
-As the founder of **Denha Networking Limited**, I lead the development of innovative digital solutions that solve real-world challenges, from travel platforms to legal tech to public procurement systems.
+As the founder of **Denha Networking Ltd**, I lead the creation of digital solutions across diverse industries—including travel, legal, and public sector—focusing on real-world impact and long-term value.
 
 ---
 
-### 🧠 Skills & Tech Stack
+### 🧠 Tech Stack
 
-#### 🧩 Languages & Frameworks
-- **JavaScript (ES6+), HTML, CSS**
-- **React, Next.js, Node.js, Express**
+#### 💻 Languages & Frameworks
 
-#### 🗃️ Databases & Backend
-- **PostgreSQL, Prisma ORM, REST APIs**
-- **Socket.IO** for real-time communication
+* JavaScript (ES6+), HTML5, CSS3
+* React, Next.js, Node.js, Express.js
+
+#### 🗄️ Backend & Databases
+
+* PostgreSQL, Prisma ORM
+* RESTful APIs, Socket.IO (real-time systems)
 
 #### 🎨 UI/UX & Styling
-- **Tailwind CSS, Figma, Responsive Design**
 
-#### 🛠️ Tools & Deployment
-- **Git, GitHub, Linux**
-- **Vercel, DigitalOcean**
-- **Basic DevOps (CI/CD, Docker - learning)**
+* Tailwind CSS, Figma
+* Mobile-first & Responsive Design
 
----
+#### ⚙️ Tools & DevOps
 
-### 🏆 Highlighted Projects
-
-#### 🌍 AfriQuest Expeditions
-A full-stack travel and safari booking platform with trip browsing, real-time features, destination management, and an intuitive admin dashboard.
-
-> _Tech: Next.js, Express, Prisma, PostgreSQL, Socket.IO, Tailwind_
-
-🔗 [Project Link (Coming Soon)](#)
+* Git, GitHub, Linux/Unix
+* Vercel, DigitalOcean
+* **Learning**: Docker, CI/CD, Nginx
 
 ---
 
-#### ⚖️ EP Advocates Website
-A responsive and dynamic legal services site with editable blogs, enquiries, and practice area management.
+### 🏆 Featured Projects
 
-> _Tech: Next.js, Tailwind CSS, React Components_
+#### 🌍 **AfriQuest Expeditions**
 
-🔗 [Visit Website (Coming Soon)](#)
+A comprehensive travel and safari booking platform with real-time updates, intuitive admin dashboard, and destination management.
+
+> *Tech Stack: Next.js, Express, Prisma, PostgreSQL, Tailwind CSS, Socket.IO*
+
+🔗 **[Project Link – Coming Soon](#)**
 
 ---
 
-#### 🧾 Public Procurement & Expenditure Tracking System
-A government-scale proposal submitted to Kenya's Ministry of ICT, focused on transparency, accountability, and real-time tracking of procurement and project spending.
+#### ⚖️ **EP Advocates Website**
 
-> _Status: Proposal stage, 10-page documentation_
+A modern legal services website with editable content, inquiries module, and dynamic practice area features.
+
+> *Tech Stack: Next.js, React Components, Tailwind CSS*
+
+🔗 **[Visit Website – Coming Soon](#)**
+
+---
+
+#### 🧾 **Public Procurement & Expenditure Tracking System**
+
+A proposed government-level platform aimed at increasing transparency and efficiency in public spending. Currently under review by Kenya's Ministry of ICT.
+
+> *Status: Proposal Stage (10-page documentation)*
 
 ---
 
 ### 🌱 Currently Exploring
 
-- DevOps fundamentals (Docker, CI/CD, Nginx)
-- Cloud deployment best practices (AWS, DigitalOcean)
-- Web performance optimization
-- Secure and scalable system architecture
+* DevOps practices (Docker, CI/CD pipelines)
+* Cloud architecture (AWS, DigitalOcean)
+* Performance tuning & web vitals
+* Scalable, secure system design patterns
 
 ---
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/_mwangi_1)
-- 💼 [Portfolio]  https://portfolio-website-ruddy-nine-76.vercel.app/
-- 📧 Email: info.dennismwangi@gmail.com
+* 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+* 🐦 [Twitter](https://twitter.com/_mwangi_1)
+* 🌐 [Portfolio](https://portfolio-website-ruddy-nine-76.vercel.app)
+* 📧 Email: [info.dennismwangi@gmail.com](mailto:info.dennismwangi@gmail.com)
 
 ---
 
@@ -85,5 +94,8 @@ A government-scale proposal submitted to Kenya's Ministry of ICT, focused on tra
 
 ---
 
-> “Code is more than syntax – it’s a tool for change.”
+> *“Code is more than syntax – it’s a tool for change.”*
 
+---
+
+Would you like a version of this in Markdown format for direct use in your GitHub `README.md`?
